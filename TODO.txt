@@ -1,0 +1,14 @@
+TODO Items
+-----------------
+
+- Split up ".js" files to a more "componentized" model so only the scripts that
+are needed get included.
+
+- Google - Be able to define "marker.showMapBlowup();", instead of normal InfoWindow.
+
+
+
+Cool Features to look into, maybe
+---------------------------------
+- Possibly use compiled partial views (.ascx) within DLL for rendering the markup and js init code.
+--- http://www.cmswire.com/cms/tips-tricks/aspnet-reusing-web-user-controls-and-forms-000915.php
